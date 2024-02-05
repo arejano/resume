@@ -1,0 +1,17 @@
+:root {
+  /* Colors */
+  --main-bg-color: #21242A;
+  /* Red */
+  --alert-color: #C33C54;
+  /* Yellow */
+  --warn-color: #E9B44C
+  /* Purple */
+  --info-color: #7D82B8
+  /* Cream */
+  --main-detail-color: #F7C59F
+}
+
+html,
+body {
+  font-family:"Fira Code", monospace;
+}
