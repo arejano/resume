@@ -15,3 +15,35 @@ html,
 body {
   font-family:"Fira Code", monospace;
 }
+
+.s-custom {
+  // display:flex;
+  align-items:center;
+  gap:32px;
+}
+
+.dev-tags {
+  margin-top:10px;
+  font-size:12px;
+  gap:8px;
+  padding-right:16px;
+}
+
+.dev-tags-block {
+  margin-top:10px;
+  gap:8px;
+}
+
+.dev-tags-block > kbd {
+  margin-top:10px;
+}
+
+.contact {
+  display:flex;
+  flex-direction:column;
+}
+
+.name {
+  margin-top:10px;
+  margin-bottom:10px;
+}
